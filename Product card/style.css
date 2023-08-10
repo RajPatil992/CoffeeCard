@@ -1,0 +1,81 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container
+{
+    margin: 200px;
+    margin-left:400px;
+   width: 570px;
+   height: 270px;
+   background-color: white;
+   display: flex;
+ 
+   border-radius: 10px ;
+   box-shadow: 50px 5px 70px 5px rgb(212,212,212);
+   position: relative;
+    
+
+}
+#img
+{
+    position: static;
+    display: flex;
+    border: .5px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    width: 450px;
+    overflow: hidden;
+    
+    
+}
+#text{
+    padding: 20px;
+    
+}
+.t2
+{
+    margin: 15px;
+}
+.tp
+{
+    margin: 15px;
+    font-size: 15px;
+}
+.main
+{
+    margin: -5px 15px;
+    text-transform: uppercase;
+    color: gray;
+    font-size: 13px;
+    letter-spacing: .2rem;
+}
+.offer
+{
+    font-size: 25px;
+    color: #0d8453;
+    font-weight: bold; 
+    margin: 15px;
+}
+.original
+{
+   font-size: 14px;
+}
+.btn
+{
+   background-color: rgb(239, 114, 31);
+   margin: 10px;
+   padding: 8px;
+   width: 280px;
+   border-radius: 5px;
+   color: white;
+
+
+}
+.btni
+{
+    margin-right: 15px;
+}
+
